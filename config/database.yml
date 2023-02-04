@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+
+  database: bloat_test_db
+  username: postgres
+  pool: 1
